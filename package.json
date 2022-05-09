@@ -1,0 +1,22 @@
+{
+  "name": "generalised_utilities",
+  "version": "1.0.0",
+  "description": "a generalized npm module to take and combine all the commonly used code patterns required in production code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amartyapandey7681/generalizedNPMmodule.git"
+  },
+  "keywords": [
+    "generalised"
+  ],
+  "author": "Amartya_pandey7681",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amartyapandey7681/generalizedNPMmodule/issues"
+  },
+  "homepage": "https://github.com/amartyapandey7681/generalizedNPMmodule#readme"
+}
